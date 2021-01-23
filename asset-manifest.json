@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zerotomastery/monsters-rolodex/static/css/main.7a542c44.chunk.css",
+    "main.js": "/zerotomastery/monsters-rolodex/static/js/main.af90b008.chunk.js",
+    "main.js.map": "/zerotomastery/monsters-rolodex/static/js/main.af90b008.chunk.js.map",
+    "runtime-main.js": "/zerotomastery/monsters-rolodex/static/js/runtime-main.aa8839ae.js",
+    "runtime-main.js.map": "/zerotomastery/monsters-rolodex/static/js/runtime-main.aa8839ae.js.map",
+    "static/js/2.3dfd3ca0.chunk.js": "/zerotomastery/monsters-rolodex/static/js/2.3dfd3ca0.chunk.js",
+    "static/js/2.3dfd3ca0.chunk.js.map": "/zerotomastery/monsters-rolodex/static/js/2.3dfd3ca0.chunk.js.map",
+    "static/js/3.a75f96e1.chunk.js": "/zerotomastery/monsters-rolodex/static/js/3.a75f96e1.chunk.js",
+    "static/js/3.a75f96e1.chunk.js.map": "/zerotomastery/monsters-rolodex/static/js/3.a75f96e1.chunk.js.map",
+    "index.html": "/zerotomastery/monsters-rolodex/index.html",
+    "static/css/main.7a542c44.chunk.css.map": "/zerotomastery/monsters-rolodex/static/css/main.7a542c44.chunk.css.map",
+    "static/js/2.3dfd3ca0.chunk.js.LICENSE.txt": "/zerotomastery/monsters-rolodex/static/js/2.3dfd3ca0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa8839ae.js",
+    "static/js/2.3dfd3ca0.chunk.js",
+    "static/css/main.7a542c44.chunk.css",
+    "static/js/main.af90b008.chunk.js"
+  ]
+}
